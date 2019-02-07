@@ -3,5 +3,8 @@
  */
 
 public with sharing class TestGitHubApex {
+public void test()
+{
 
+}
 }
